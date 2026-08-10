@@ -1,0 +1,6 @@
+{
+  "name": "Career Map",
+  "description": "Professional Grade AI Career Diagnosis & Gap Analysis Utility",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
